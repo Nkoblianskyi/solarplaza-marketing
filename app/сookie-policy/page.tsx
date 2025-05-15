@@ -78,38 +78,6 @@ export default function CookiePolicyPage() {
             </p>
           </section>
 
-          <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">4. Control de cookies</h2>
-            <p>
-              Puede controlar y/o eliminar las cookies según desee. Puede eliminar todas las cookies que ya están en su
-              dispositivo y puede configurar la mayoría de los navegadores para evitar que se coloquen. Sin embargo, si
-              lo hace, es posible que deba ajustar manualmente algunas preferencias cada vez que visite un sitio y
-              algunos servicios y funcionalidades pueden no funcionar.
-            </p>
-            <p className="mt-4">
-              La mayoría de los navegadores web permiten cierto control de la mayoría de las cookies a través de la
-              configuración del navegador. Para obtener más información sobre las cookies, incluido cómo ver qué cookies
-              se han establecido y cómo administrarlas y eliminarlas, visite{" "}
-              <a
-                href="https://www.aboutcookies.org"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-amber-600 hover:underline"
-              >
-                www.aboutcookies.org
-              </a>{" "}
-              o{" "}
-              <a
-                href="https://www.allaboutcookies.org"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-amber-600 hover:underline"
-              >
-                www.allaboutcookies.org
-              </a>
-              .
-            </p>
-          </section>
 
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">5. Cookies específicas utilizadas en este sitio</h2>
