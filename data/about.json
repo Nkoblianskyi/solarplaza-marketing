@@ -1,0 +1,26 @@
+{
+  "vision": "Transformamos espacios urbanos en experiencias visuales impactantes",
+  "mision": "Nuestra misión es dar vida a las ideas de nuestros clientes a través de campañas de marketing offline que capturan la atención y generan resultados tangibles.",
+  "historia": "Fundada en 2018, SolarPlaza Marketing nació con la visión de revolucionar el marketing offline en España. Comenzamos como un pequeño estudio especializado en diseño para publicidad exterior y rápidamente expandimos nuestros servicios para cubrir todo el espectro del marketing offline.",
+  "valores": [
+    {
+      "titulo": "Creatividad",
+      "descripcion": "Buscamos constantemente nuevas formas de sorprender y captar la atención"
+    },
+    {
+      "titulo": "Calidad",
+      "descripcion": "Nos comprometemos con la excelencia en cada detalle de los materiales y la producción"
+    },
+    {
+      "titulo": "Innovación",
+      "descripcion": "Experimentamos con nuevas tecnologías y materiales para mantenernos a la vanguardia"
+    },
+    {
+      "titulo": "Sostenibilidad",
+      "descripcion": "Trabajamos con materiales ecológicos siempre que sea posible"
+    }
+  ],
+  "equipo": {
+    "descripcion": "Nuestro equipo está compuesto por diseñadores, estrategas y expertos en producción, unidos por la pasión de crear campañas memorables."
+  }
+}

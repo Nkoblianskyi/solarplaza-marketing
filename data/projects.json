@@ -1,0 +1,141 @@
+{
+  "proyectos": [
+    {
+      "id": 1,
+      "titulo": "Campaña Urbana Primavera 2025",
+      "slug": "campana-urbana-primavera-2025",
+      "cliente": "Cliente del sector retail",
+      "categoria": "billboards",
+      "fecha": "2025-03-15",
+      "descripcion_corta": "Campaña de vallas publicitarias para promocionar la colección de primavera",
+      "descripcion_completa": "Desarrollamos una campaña integral de publicidad exterior para el lanzamiento de la colección primavera 2025. El proyecto incluyó la conceptualización creativa, diseño de visuales y coordinación de la instalación en 25 ubicaciones estratégicas de Madrid.",
+      "objetivos": [
+        "Aumentar la visibilidad de la nueva colección",
+        "Generar tráfico a las tiendas físicas",
+        "Reforzar el posicionamiento de la marca en el segmento joven"
+      ],
+      "solucion": "Creamos un concepto visual basado en colores vibrantes y composiciones dinámicas que capturaban la esencia de la primavera. Utilizamos una combinación de fotografía profesional y elementos gráficos para crear impacto visual inmediato.",
+      "resultados": [
+        "Incremento del 27% en el tráfico a tiendas",
+        "Aumento de ventas del 18% comparado con el mismo período del año anterior",
+        "Alta repercusión en redes sociales mediante fotografías espontáneas de las vallas"
+      ],
+      "imagenes": [
+        "/41a2c0644cbd926bdb270ed373aaa15a.jpg",
+        "/bbc0dc9a54fc90855d45ceece52b2693.jpg",
+        "/ae0c26a33aa885c6bc2bd98e9684145f.jpg",
+        "/58afdaa28dd3ad2d6609ce50f133a2a4.jpg"
+      ],
+      "testimonial": "El impacto visual de la campaña superó nuestras expectativas y se tradujo en resultados comerciales tangibles."
+    },
+    {
+      "id": 2,
+      "titulo": "Rotulación Flota Corporativa",
+      "slug": "rotulacion-flota-corporativa",
+      "cliente": "Cliente del sector servicios",
+      "categoria": "transporte",
+      "fecha": "2025-01-10",
+      "descripcion_corta": "Rediseño y aplicación de rotulación para flota de vehículos corporativos",
+      "descripcion_completa": "Realizamos el rediseño completo de la imagen aplicada a la flota de vehículos corporativos, incluyendo 45 furgonetas y 15 turismos. El proyecto abarcó desde la conceptualización hasta la producción e instalación del vinilado en todos los vehículos.",
+      "objetivos": [
+        "Modernizar la imagen de la flota corporativa",
+        "Maximizar la visibilidad de la marca en desplazamientos",
+        "Mantener coherencia con la nueva identidad visual de la empresa"
+      ],
+      "solucion": "Desarrollamos un sistema gráfico modular adaptable a diferentes tipos de vehículos, utilizando vinilos de alta resistencia y durabilidad. El diseño se basó en formas geométricas simplificadas que facilitaban la identificación de la marca incluso a distancia.",
+      "resultados": [
+        "Renovación completa de la flota en tiempo récord (3 semanas)",
+        "Aumento del reconocimiento de marca en un 35% según estudio posterior",
+        "Durabilidad garantizada de 5 años para los materiales utilizados"
+      ],
+      "imagenes": [
+        "/6bf55236729af5561c40dbf847257dd3.jpg",
+        "/c63d05f5d349e058cdea303aab6e48af.jpg",
+        "/8230cf3771aef506e155fcabd7427cc8.jpg"
+      ],
+      "testimonial": "La nueva imagen de nuestra flota ha transformado nuestros vehículos en auténticos embajadores de marca."
+    },
+    {
+      "id": 3,
+      "titulo": "Kit de Bienvenida Corporativo",
+      "slug": "kit-bienvenida-corporativo",
+      "cliente": "Cliente del sector tecnológico",
+      "categoria": "merchandising",
+      "fecha": "2025-02-20",
+      "descripcion_corta": "Diseño y producción de kits de bienvenida para nuevos empleados",
+      "descripcion_completa": "Desarrollamos un kit de bienvenida completo para nuevos empleados que refleja los valores de la empresa y facilita la incorporación. El proyecto incluyó diseño conceptual, selección de productos, personalización y solución logística para entrega.",
+      "objetivos": [
+        "Mejorar la experiencia de incorporación de nuevos talentos",
+        "Transmitir los valores corporativos desde el primer día",
+        "Proporcionar herramientas útiles con la identidad de la marca"
+      ],
+      "solucion": "Creamos un kit que combinaba elementos prácticos (cuaderno, botella, lápiz USB) con material informativo, todo ello en un packaging exclusivo y sorprendente. Cada elemento fue cuidadosamente seleccionado pensando en la utilidad real para el nuevo empleado.",
+      "resultados": [
+        "Evaluación positiva del 94% en encuestas de satisfacción a nuevas incorporaciones",
+        "Reducción del tiempo de adaptación según informes de RRHH",
+        "El kit se ha convertido en un elemento distintivo en el sector"
+      ],
+      "imagenes": [
+        "/c0cb25de3c006a571718616b728b3deb.jpg",
+        "/2b87d902fe17a8a7efc82a1b142be3cf.jpg",
+        "/790cc231752e4d379490745a730c1ce9.jpg",
+        "/1d6f6c4f30c5f3ad6d8bcc934b389fc1.jpg"
+      ],
+      "testimonial": "El kit no solo transmite nuestra identidad visual, sino que refleja perfectamente nuestra cultura empresarial y valores."
+    },
+    {
+      "id": 4,
+      "titulo": "Campaña Metro Madrid",
+      "slug": "campana-metro-madrid",
+      "cliente": "Cliente del sector cultural",
+      "categoria": "transporte",
+      "fecha": "2025-04-05",
+      "descripcion_corta": "Campaña publicitaria integral en estaciones de Metro de Madrid",
+      "descripcion_completa": "Diseñamos y ejecutamos una campaña publicitaria en 10 estaciones clave del Metro de Madrid, que incluyó mupis, vinilos de suelo y techo, y dominio completo de estación en Nuevos Ministerios. La campaña se desarrolló para promocionar un importante evento cultural.",
+      "objetivos": [
+        "Generar expectación y conocimiento sobre el evento",
+        "Maximizar el impacto visual en zonas de alto tránsito",
+        "Proporcionar información práctica sobre fechas y sede"
+      ],
+      "solucion": "Creamos un concepto inmersivo que transformaba las estaciones en extensiones de la experiencia del evento, utilizando recursos visuales impactantes y códigos QR interactivos que permitían obtener información adicional e incluso comprar entradas directamente.",
+      "resultados": [
+        "Venta anticipada del 72% de las entradas antes del inicio del evento",
+        "Más de 15.000 interacciones con los códigos QR implementados",
+        "Repercusión mediática valorada en 350.000€ en medios convencionales"
+      ],
+      "imagenes": [
+        "/3d0377326090c2549d396e403d1548f3.jpg",
+        "/12ae73f8f1abee83b0dde4eee652688d.jpg",
+        "/dabf7bc979d482fd6fed556143784a78.jpg"
+      ],
+      "testimonial": "La campaña logró que nuestro evento fuera imposible de ignorar para cualquier usuario del Metro de Madrid."
+    },
+    {
+      "id": 5,
+      "titulo": "Catálogo Corporativo Premium",
+      "slug": "catalogo-corporativo-premium",
+      "cliente": "Cliente del sector inmobiliario de lujo",
+      "categoria": "impresos",
+      "fecha": "2025-02-12",
+      "descripcion_corta": "Diseño y producción de catálogo de lujo para promoción inmobiliaria exclusiva",
+      "descripcion_completa": "Desarrollamos un catálogo impreso de alta gama para presentar una promoción inmobiliaria exclusiva. El proyecto abarcó dirección de arte, diseño editorial, producción fotográfica, redacción de contenidos y supervisión de impresión con acabados premium.",
+      "objetivos": [
+        "Transmitir el carácter exclusivo de la promoción inmobiliaria",
+        "Presentar los inmuebles de manera elegante y detallada",
+        "Crear una pieza de comunicación que refleje el valor de la inversión"
+      ],
+      "solucion": "Diseñamos un catálogo oversized con técnicas de impresión especiales, incluyendo stamping oro, encuadernación cosida y papel de origen sostenible de 180gr. El diseño editorial minimalista ponía en valor la arquitectura y acabados de los inmuebles.",
+      "resultados": [
+        "El catálogo se convirtió en objeto de deseo y colección entre los potenciales compradores",
+        "Venta del 60% de los inmuebles en la fase de pre-comercialización",
+        "Premiado en certamen nacional de diseño editorial"
+      ],
+      "imagenes": [
+        "/e716d2333ac39f454c15c0188c718c2d.jpg",
+        "/207f7d7bfb78ee10798aaba598d1251f.jpg",
+        "/bcb365fdd8f689046ebd344531137dde.jpg"
+      ],
+      "testimonial": "Cada página del catálogo transmite exactamente la exclusividad y atención al detalle que caracteriza a nuestros desarrollos inmobiliarios."
+    }
+  ]
+}

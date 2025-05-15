@@ -1,0 +1,36 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuánto tiempo se tarda en implementar una campaña de vallas publicitarias?",
+      "respuesta": "El tiempo de implementación varía según la complejidad y alcance del proyecto. En general, una campaña estándar de vallas publicitarias puede completarse en 2-4 semanas, incluyendo diseño, producción e instalación. Para campañas más extensas o con necesidades especiales, recomendamos planificar con al menos 6 semanas de antelación."
+    },
+    {
+      "pregunta": "¿Ofrecen servicios de diseño o solo de producción e instalación?",
+      "respuesta": "Ofrecemos un servicio integral que abarca desde la conceptualización creativa y diseño hasta la producción, instalación y mantenimiento. Nuestro equipo de diseñadores puede crear visuales impactantes adaptados específicamente a los formatos de publicidad exterior, o trabajar a partir de lineamientos y materiales proporcionados por su agencia de publicidad."
+    },
+    {
+      "pregunta": "¿Cómo se determina la ubicación óptima para mis vallas publicitarias?",
+      "respuesta": "Realizamos un análisis detallado basado en sus objetivos de marketing, público objetivo y presupuesto. Consideramos factores como densidad de tráfico, perfil demográfico de la zona, visibilidad, ángulo de visión y complementariedad con otros medios de su campaña. Proporcionamos informes con datos de audiencia potencial para cada ubicación propuesta."
+    },
+    {
+      "pregunta": "¿Qué materiales utilizan para la impresión de vallas y otros elementos publicitarios?",
+      "respuesta": "Trabajamos con una amplia gama de materiales seleccionados según las necesidades específicas de cada proyecto. Para publicidad exterior utilizamos principalmente lonas de PVC de alta resistencia, vinilos poliméricos y microperforados, y materiales ecológicos certificados. Todos nuestros materiales están seleccionados para garantizar la máxima calidad de impresión y durabilidad frente a condiciones climáticas adversas."
+    },
+    {
+      "pregunta": "¿Pueden ayudarme a medir el impacto de mi campaña de publicidad exterior?",
+      "respuesta": "Sí, ofrecemos servicios de medición de impacto adaptados a campañas de publicidad exterior. Utilizamos una combinación de tecnologías de conteo anónimo, estudios de recordación de marca, análisis de tráfico y, cuando es posible, seguimiento de conversiones mediante códigos QR o URLs específicas. Al finalizar la campaña, recibirá un informe detallado con los principales KPIs y recomendaciones para futuras acciones."
+    },
+    {
+      "pregunta": "¿Cuál es el presupuesto mínimo para una campaña efectiva?",
+      "respuesta": "El presupuesto varía significativamente según los objetivos, formatos y ubicaciones. Podemos diseñar soluciones efectivas en diversos rangos presupuestarios, comenzando desde campañas localizadas con presupuestos desde 3.000€. Lo importante es definir claramente los objetivos para optimizar la inversión. Ofrecemos asesoramiento sin compromiso para encontrar la solución más eficiente según sus necesidades y recursos."
+    },
+    {
+      "pregunta": "¿Trabajan con empresas pequeñas o solo con grandes marcas?",
+      "respuesta": "Trabajamos con empresas de todos los tamaños, desde pequeños negocios locales hasta grandes corporaciones. Entendemos que cada cliente tiene necesidades y presupuestos diferentes, por lo que adaptamos nuestras soluciones a cada caso particular. Para negocios locales, podemos diseñar estrategias de alto impacto en áreas geográficas específicas que maximicen el retorno de la inversión."
+    },
+    {
+      "pregunta": "¿Qué ventajas ofrece la publicidad exterior frente a la publicidad digital?",
+      "respuesta": "La publicidad exterior ofrece ventajas complementarias a las campañas digitales: no puede ser bloqueada ni ignorada como los anuncios online, garantiza visibilidad 24/7, genera impacto a gran escala, construye presencia de marca en el entorno físico de los consumidores, y alcanza a audiencias cuando están fuera de casa y más receptivas a ciertos mensajes. Además, los formatos actuales permiten integración con estrategias digitales mediante códigos QR o tecnologías interactivas."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "proyectosEspeciales": [
+    {
+      "id": 1,
+      "titulo": "Campaña Navidad 2024",
+      "descripcion": "Campaña integral para centro comercial con elementos especiales iluminados y experiencias interactivas.",
+      "fechaInicio": "2024-11-15",
+      "fechaFin": "2025-01-07",
+      "elementos": [
+        "Decoración exterior con iluminación LED programable",
+        "Photocall interactivo con realidad aumentada",
+        "Vinilos de suelo con recorrido temático",
+        "Packaging especial para compras navideñas"
+      ],
+      "imagen": "/images/special/navidad2024.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Campaña Verano 2024",
+      "descripcion": "Activación de marca en playas selectas de la costa mediterránea con elementos promocionales y experienciales.",
+      "fechaInicio": "2024-06-15",
+      "fechaFin": "2024-09-15",
+      "elementos": [
+        "Sombrillas personalizadas con diseño exclusivo",
+        "Estaciones de rehidratación con branding integral",
+        "Zona de descanso con mobiliario tematizado",
+        "Actividades interactivas para familias"
+      ],
+      "imagen": "/images/special/verano2024.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Lanzamiento Exclusivo 2024",
+      "descripcion": "Evento de lanzamiento de producto premium con instalación temporal en el centro de Madrid.",
+      "fechaInicio": "2024-10-01",
+      "fechaFin": "2024-10-15",
+      "elementos": [
+        "Estructura temporal con fachada interactiva",
+        "Mapping projection sobre edificio emblemático",
+        "Kit de prensa exclusivo para medios e influencers",
+        "Merchandising de edición limitada"
+      ],
+      "imagen": "/images/special/lanzamiento2024.jpg"
+    }
+  ]
+}

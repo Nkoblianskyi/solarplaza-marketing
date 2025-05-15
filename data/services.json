@@ -1,0 +1,134 @@
+{
+  "servicios": [
+    {
+      "id": "billboards",
+      "nombre": "Vallas Publicitarias",
+      "slug": "vallas-publicitarias",
+      "descripcion_corta": "Diseño e implementación de vallas publicitarias impactantes",
+      "descripcion_larga": "Nuestras vallas publicitarias están diseñadas para captar la atención en los lugares más transitados de la ciudad. Ofrecemos soluciones completas desde el diseño hasta la instalación, con una amplia variedad de formatos y ubicaciones estratégicas.",
+      "icono": "monitor",
+      "beneficios": [
+        "Alta visibilidad en zonas estratégicas",
+        "Impacto visual a gran escala",
+        "Presencia 24/7 en el espacio urbano",
+        "Múltiples formatos adaptables"
+      ],
+      "proceso": [
+        "Análisis de ubicaciones",
+        "Diseño creativo",
+        "Producción de alta calidad",
+        "Instalación profesional",
+        "Mantenimiento periódico"
+      ],
+      "imagenes": [
+        "/2096362afa45d4a420292bd3180051b7.jpg",
+        "/b42aa3a2d860422bad97325d3272f358.jpg",
+        "/b40f17cb46b6477cb2df78ec91f267e6.jpg"
+      ]
+    },
+    {
+      "id": "transporte",
+      "nombre": "Transporte Público",
+      "slug": "transporte-publico",
+      "descripcion_corta": "Publicidad en autobuses, metro y otros medios de transporte",
+      "descripcion_larga": "Convertimos los medios de transporte en soportes publicitarios móviles que recorren la ciudad llevando su mensaje. Desde rotulación completa de autobuses hasta campañas en el interior del metro, ofrecemos soluciones que acompañan a los ciudadanos en su día a día.",
+      "icono": "bus",
+      "beneficios": [
+        "Exposición constante a un público cautivo",
+        "Amplia cobertura geográfica",
+        "Alta frecuencia de impactos",
+        "Formatos variados según necesidades"
+      ],
+      "proceso": [
+        "Selección de líneas y rutas",
+        "Diseño adaptado al soporte",
+        "Producción con materiales resistentes",
+        "Instalación especializada",
+        "Seguimiento y reportes"
+      ],
+      "imagenes": [
+        "/9463cfcf384f51908fd328c82ec1319e.jpg",
+        "/df493d7ee76c4ebcfd6690b6a9346853.jpg",
+        "/f17629113aab20b31d3803c12c98d4a8.jpg"
+      ]
+    },
+    {
+      "id": "impresos",
+      "nombre": "Materiales Impresos",
+      "slug": "materiales-impresos",
+      "descripcion_corta": "Folletos, catálogos y material promocional de alta calidad",
+      "descripcion_larga": "Creamos materiales impresos que transmiten la esencia de su marca con la máxima calidad. Desde folletos y catálogos hasta tarjetas de visita y papelería corporativa, cuidamos cada detalle para que su comunicación impresa sea efectiva y memorable.",
+      "icono": "file-text",
+      "beneficios": [
+        "Comunicación tangible y duradera",
+        "Calidad de impresión superior",
+        "Versatilidad de formatos y acabados",
+        "Experiencia táctil que refuerza el mensaje"
+      ],
+      "proceso": [
+        "Briefing detallado",
+        "Diseño gráfico profesional",
+        "Selección de materiales y acabados",
+        "Impresión de alta calidad",
+        "Control de calidad exhaustivo"
+      ],
+      "imagenes": [
+        "/d5534b208e83e8e4327830e2c50443ed.jpg",
+        "/1002863f1ce0729c32806ca5435687be.jpg",
+        "/4690d03fefa70e1706f0dd611bb8ff54.jpg"
+      ]
+    },
+    {
+      "id": "merchandising",
+      "nombre": "Merchandising",
+      "slug": "merchandising",
+      "descripcion_corta": "Productos promocionales personalizados para su marca",
+      "descripcion_larga": "Diseñamos y producimos artículos promocionales que llevan su marca más allá de los espacios convencionales. Cada pieza de merchandising es una oportunidad para conectar con su público de manera duradera y generar recuerdo de marca.",
+      "icono": "shopping-bag",
+      "beneficios": [
+        "Presencia de marca en el día a día del cliente",
+        "Amplia variedad de productos personalizables",
+        "Refuerzo de la identidad corporativa",
+        "Alto valor percibido como regalo promocional"
+      ],
+      "proceso": [
+        "Consultoría estratégica",
+        "Selección de productos adecuados",
+        "Diseño de personalización",
+        "Producción con control de calidad",
+        "Embalaje y distribución"
+      ],
+      "imagenes": [
+        "/1ff52b8c39e07aa788d3956da2acd469.jpg",
+        "/f70a571a3cf61696f12f3fdf5958f06e.jpg",
+        "/1b63aa6628527ddddc97ae83d0b0871d.jpg"
+      ]
+    },
+    {
+      "id": "oficinas",
+      "nombre": "Oficinas y Papelería",
+      "slug": "oficinas-papeleria",
+      "descripcion_corta": "Branding completo para espacios de trabajo y documentación",
+      "descripcion_larga": "Transformamos sus espacios de trabajo y documentación corporativa en embajadores de su marca. Desde la señalética y decoración de oficinas hasta el diseño de papelería corporativa, creamos una experiencia de marca coherente y profesional.",
+      "icono": "briefcase",
+      "beneficios": [
+        "Refuerzo de cultura corporativa",
+        "Coherencia visual en todos los puntos de contacto",
+        "Mejora de la experiencia de empleados y visitantes",
+        "Profesionalidad en la comunicación corporativa"
+      ],
+      "proceso": [
+        "Auditoría de espacios y necesidades",
+        "Desarrollo de concepto creativo",
+        "Diseño adaptado a cada soporte",
+        "Producción e implementación",
+        "Manuales de uso y aplicación"
+      ],
+      "imagenes": [
+        "/02603a3c0236c721e9c46f3fde458568.jpg",
+        "/a15086ee094fcbd7c6a01993bfedf0e1.jpg",
+        "/53ae1051e4e5bb07ebec7e0675991e83.jpg"
+      ]
+    }
+  ]
+}
